@@ -1,0 +1,15 @@
+import {ScaledSheet} from 'react-native-size-matters';
+
+const styles = ScaledSheet.create({
+  container: {
+    margin: '5@s',
+  },
+  headerText: {
+    fontSize: '20@s',
+    color: 'black',
+    marginTop: '20@vs',
+    fontWeight: 'bold'
+  },
+});
+
+export default styles;
