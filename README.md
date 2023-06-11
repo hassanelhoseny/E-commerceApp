@@ -14,6 +14,3 @@ use many features in this App
 ### How to Run 
 1. install node modules by run `npm install ` 
 2. run `npx react-native run-android`
-
-
-![unnamed](https://github.com/hassanelhoseny/E-commerceApp/assets/30009539/2986dd12-d9a9-4e1e-9ad2-90a55f89d0ce)
