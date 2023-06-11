@@ -13,4 +13,5 @@ use many features in this App
 
 ### How to Run 
 1. install node modules by run `npm install ` 
+2. run `npx react-native run-android`
 
