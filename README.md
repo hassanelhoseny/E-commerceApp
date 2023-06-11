@@ -8,5 +8,9 @@ use many features in this App
 3. integrate Api 
 4. React Redux  
 5.  Axios 
-6.  Reactotron for monitoring Api 
+6.  Reactotron for monitoring Api
+
+
+### How to Run 
+1. install node modules by run `npm install ` 
 
